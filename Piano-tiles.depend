@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1489842624 source:c:\users\dracula\desktop\piano-tiles 2\main.cpp
+	<iostream>
+	"display.h"
+
+1489832678 c:\users\dracula\desktop\piano-tiles 2\display.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	"tiles.h"
+	<stdlib.h>
+	<sstream>
+
+1489761745 c:\users\dracula\desktop\piano-tiles 2\tiles.h
+	<iostream>
+	"color.h"
+	<SDL.h>
+
+1489049724 c:\users\dracula\desktop\piano-tiles 2\color.h
+
+1489119821 source:c:\users\dracula\desktop\piano-tiles 2\tiles.cpp
+	"tiles.h"
+
+1489851848 source:c:\users\dracula\desktop\piano-tiles 2\display.cpp
+	"display.h"
+	<SDL_mixer.h>
+
+1489761754 c:\users\dracula\desktop\piano-tiles 2\endgame.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1489152189 c:\users\dracula\desktop\piano-tiles 2\endgame.h
+	<SDL2/SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1489761754 source:c:\users\dracula\desktop\piano-tiles 2\endgame.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1489853482 source:e:\piano-tiles 2\display.cpp
+	"display.h"
+	<SDL_mixer.h>
+
+1489853501 e:\piano-tiles 2\display.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<cmath>
+	"tiles.h"
+	<stdlib.h>
+	<sstream>
+
+1489761745 e:\piano-tiles 2\tiles.h
+	<iostream>
+	"color.h"
+	<SDL.h>
+
+1489049724 e:\piano-tiles 2\color.h
+
+1489761754 source:e:\piano-tiles 2\endgame.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+
+1489853501 source:e:\piano-tiles 2\main.cpp
+	<iostream>
+	"display.h"
+
+1489119821 source:e:\piano-tiles 2\tiles.cpp
+	"tiles.h"
+
